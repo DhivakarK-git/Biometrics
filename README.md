@@ -13,4 +13,4 @@ The monitoring system detects if the student moves the face away from the screen
 
 Traits Used: 
 						a)	Keystroke dynamics
-						b)	Face and Eye movement
+						b)	Eye movement
