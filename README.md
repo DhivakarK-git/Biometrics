@@ -13,5 +13,5 @@ The monitoring system detects if the student moves the face away from the screen
 So this project explores the possibility of tracking where a person is looking at by the x and y axis displacement of the iris from the center of each eye. Based on this displacement values, any company with a certain set of business rules can implement an alogrithm that best suits their needs and succesfully proctor an exam.
 
 ## Traits Used 
-						a)	Keystroke dynamics
-						b)	Eye movement
+		a)	Keystroke dynamics
+		b)	Eye movement
