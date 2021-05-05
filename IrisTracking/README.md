@@ -5,13 +5,10 @@ Howsoever, the traditional means for checking if the person is lookinf offscreen
 So this project explores the possibility of tracking where a person is looking at by the x and y axis displacement of the iris from the center of each eye. Based on this displacement values, any company with a certain set of business rules can implement an alogrithm that best suits their needs and succesfully proctor an exam.
 
 Advantages of a Iris Tracking System over the alternatives:
-
-    • More Accuracy compared to the alternatives. Since direction and movement are easier to detect with iris. Since, iris can be identified much easier in a 2d plane. This also allows us to easily make a threshold for its x axis and y axis movement and figure out the number of times the subject is looking offscreen.
-    
-    • More freedom to set rules and regulations. With iris, we can even calculate the time the subject is looking offscreen.
-    
+    • More Accuracy compared to the alternatives. Since direction and movement are easier to detect with iris. Since, iris can be identified much easier in a 2d plane. 
+      This also allows us to easily make a threshold for its x axis and y axis movement and figure out the number of times the subject is looking offscreen.
+    • More freedom to set rules and regulations. With iris, we can even calculate the time the subject is looking offscreen.    
     • Also, Possibility of identifying if the person is having an aide within the screen as well, with window snapping.
-    
     • Also, can flags users who take a quick glance offscreen, which is often not noticed when the system primarily tracks faces.
     
 
