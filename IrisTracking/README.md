@@ -7,9 +7,13 @@ So this project explores the possibility of tracking where a person is looking a
 Advantages of a Iris Tracking System over the alternatives:
 
     • More Accuracy compared to the alternatives. Since direction and movement are easier to detect with iris. Since, iris can be identified much easier in a 2d plane. This also allows us to easily make a threshold for its x axis and y axis movement and figure out the number of times the subject is looking offscreen.
+    
     • More freedom to set rules and regulations. With iris, we can even calculate the time the subject is looking offscreen.
+    
     • Also, Possibility of identifying if the person is having an aide within the screen as well, with window snapping.
+    
     • Also, can flags users who take a quick glance offscreen, which is often not noticed when the system primarily tracks faces.
+    
 
 Disadvantages of a Iris Tracking System over the alternatives:
     • Less precision, due to the fact that most of the time iris is a very small part of the webcam feed. Unlike that of face, the fraction of iris within a frame is significantly less for iris.
