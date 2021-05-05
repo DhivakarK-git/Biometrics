@@ -28,6 +28,7 @@ Disadvantages of a Iris Tracking System over the alternatives:
 
 Future Scope:
 
-	The best iteration of this device is one that is a multimodal with various other features such as face being tracked. Also it necessitates a way for inter frame algorithms and an effective gaze estimation algorithm. The current estimation technique is a bounding box technique, which is indicative of movement only, and flags the user once the gaze crosses this bounding box.
+The best iteration of this device is one that is a multimodal with various other features such as face being tracked. Also it necessitates a way for inter frame algorithms and an effective gaze estimation algorithm. The current estimation technique is a bounding box technique, which is indicative of movement only, and flags the user once the gaze crosses this bounding box.
+
 
 Please additionally download shape_predictor_68_face_landmarks.dat.bz2 from http://dlib.net/files/ and import it into the ipython notebook
