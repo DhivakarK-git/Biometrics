@@ -14,4 +14,4 @@ So this project explores the possibility of tracking where a person is looking a
 
 ## Traits Used 
 		a)	Keystroke dynamics
-		b)	Eye movement
+		b)	Iris movement
